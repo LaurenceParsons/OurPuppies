@@ -1,0 +1,27 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Roboto Slab', serif;
+  }
+/* comment */
+html {
+  background-color: #EEECEC;
+}
+/* comment */
+body {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #F6F8F1;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: darkblue;
+}
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+/* this is a comment */
